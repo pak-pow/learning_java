@@ -52,7 +52,7 @@ public class Main {
 - Use `Scanner` to get user input:
 
     ```java
-Scanner input = new Scanner(System.in);
+	Scanner input = new Scanner(System.in);
     ```
 
 ---
